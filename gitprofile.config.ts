@@ -102,11 +102,6 @@ const CONFIG = {
       body: 'LinkedIn course',
       year: 'March 2024',
       link: 'https://www.linkedin.com/in/olivia-m-barr/',
-
-      name: 'AWS Cloud Practiconer",
-      body: "The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.',
-      year: 'May 2024',  
-    
       
     },
   ],
