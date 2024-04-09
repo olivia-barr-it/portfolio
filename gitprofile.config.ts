@@ -80,20 +80,12 @@ const CONFIG = {
       'https://drive.google.com/file/d/1S3FcZjLKadqLFiOAZSg-EREFIw9Bkk8g/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
+    'Cisco Network Fundamentals I,II',
+    'Virtualization',
+    'Windows Server 2016',
+    'AWS Cloud Practiconer',
+    'ISC2 Candidate',
+
   ],
   
   certifications: [
