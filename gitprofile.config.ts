@@ -35,7 +35,8 @@ const CONFIG = {
         {
           title: 'Conducting a Security Audit',
           description:
-            'I conducted a comprehensive examination of a hypothetical business's systems and infrastructure to identify vulnerabilities and risks to ensure compliance according to security standards and best practices.',
+            'I conducted a comprehensive examination of a hypothetical business's systems and infrastructure to identify vulnerabilities 
+            and risks to ensure compliance according to security standards and best practices.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
