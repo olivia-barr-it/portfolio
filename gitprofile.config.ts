@@ -38,13 +38,13 @@ const CONFIG = {
             'I conducted a comprehensive examination of a hypothetical business's systems and infrastructure to identify vulnerabilities and risks to ensure compliance according to security standards and best practices.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://docs.google.com/document/d/19-a__aoi0nNQIk1Y7-J928hRsV6fSipc/edit?usp=drive_link&ouid=100261611240270103450&rtpof=true&sd=true',
         },
         {
-          title: 'Project Name',
+          title: 'Linux Commands',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          link: 'https://docs.google.com/document/d/19-a__aoi0nNQIk1Y7-J928hRsV6fSipc/edit?usp=drive_link&ouid=100261611240270103450&rtpof=true&sd=true',
+            'Lorem ipsum dolor sit amet, consectetur adipiscinglit. Sed euismod, nunc ut.', 
+          link: '',
         },
       ],
     },
