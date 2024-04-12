@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Conducting a Secuirty Audit',
+          title: 'Conducting a Security Audit',
           description:
             'I conducted a comprehensive examination of a hypothetical business's systems and infrastructure to identify vulnerabilities and risks to ensure compliance according to security standards and best practices.',
           imageUrl:
